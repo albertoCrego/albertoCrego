@@ -48,9 +48,9 @@ career-profile:
     summary: |
       Curious, hard-working, versatile and with much energy for a continuous growth in my technology area. Character entrepreneur and with experience in group-working. 
       
-      I want to **contiue growing like SRE/Cloud Architect for improving my techology, social and personal skills** and juggle with my personal life. 
+      I am really interested in create, develop and build new projects or ideas based on Cloud Environments, DevOps environments, etc.
 
-      I am really interested in create, develop and build new projects or ideas based on Cloud Environments, IOT, etc. 
+      I want to **contiue growing and learning to be in the futuro s SRE/Cloud Architect** on a international team based on differents locations. 
 education:
     - degree: MSc in Telecomunication Enginnering
       university: Universidad de Alcalá (Madrid)
@@ -109,6 +109,11 @@ publications:
     intro: |
       
     papers:
+      - title: IOT
+        link: "#"
+        authors: Always :)
+        conference: Play and create projects with Raspberry Pi, Onion Omega, Arduino, 3D Printing, etc. 
+
       - title: Polygon
         link: "#"
         authors: Second Award - Universidad de Alcala - 2017
