@@ -29,11 +29,11 @@ sidebar:
       - idiom: Spanish
         level: Native
 
-      - idiom: Spanish
+      - idiom: English
         level: Intermediate - Professional
 
     interests:
-      - item: Rugby _Last 4 years_
+      - item: Rugby __Last 4 years__
         link: 
 
       - item: Nature & Travel
@@ -56,14 +56,12 @@ education:
         Final BSc Project: "Deploy scenarios for orquestated network and application funcionalities in 5G"
 
 experiences:
-    - role: Cloud Engineer / DevOps 
+    - role: Cloud Engineer / DevOps
       time: June 2018 - Present
       company: IBM
       details: |
-        **Junior Cloud Engineer in DevOps environment.**
-        
-        Develop and administrate in different Cloud (AWS, IBM Cloud), On-Premise Kubernetes Cluster and Openshift environments.
-
+        Junior Cloud Engineer in DevOps environment
+          - Develop and administrate in different Cloud (AWS, IBM Cloud), On-Premise Kubernetes Cluster and Openshift environments.
           - Deploy and maintain applications for several clients: Databases (MongoDB, PostgreSQL, Redis, etc), MQ (RabbitMQ, Kafka, etc)
           - Develop and administrate Monitoring Stacks with Grafana and Prometheus and Logging Stacks with ELK (Kibana, Elasticsearch, Logstash, Beats, etc)
           
@@ -77,21 +75,19 @@ experiences:
           - Deploy a complete stack based on Elastic Stack
 
 projects:
-    title: Projects
+    title: Certifications & Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      aaaaaa
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: System Administrator
+        link: "https://rhtapps.redhat.com/certifications/badge/verify/S6LFDYG4P7XXJTIVOVV5HAPGYIAEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ="
+        tagline: "January 2020 - Red Hat"
+      
+      - title: CKA - Certified Kubernetes Administrator
+        link: "https://www.youracclaim.com/badges/1a7ad9cb-08a2-4f4a-88ac-de0c28686518/public_url"
+        tagline: "Augost 2019 - The Linux Foundation"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
+      - title: 
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
@@ -104,7 +100,7 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Other Jobs 
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
