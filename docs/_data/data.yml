@@ -48,7 +48,7 @@ career-profile:
     summary: |
       Curious, hard-working, versatile and with much energy for a continuous growth in my technology area. Character entrepreneur and with experience in group-working. 
       
-      I want to contiue growing like **SRE/Cloud Architect** for improving my techology, social and personal skills and juggle with my personal life. 
+      I want to **contiue growing like SRE/Cloud Architect for improving my techology, social and personal skills** and juggle with my personal life. 
 
       I am really interested in create, develop and build new projects or ideas based on Cloud Environments, IOT, etc. 
 education:
@@ -82,11 +82,16 @@ projects:
     intro: >
       Always doing something... Learn, create or enjoy it! In the following line you can see my last technology certificates and some personal projects. 
     assignments:
-      - title: "**Certificate** - System Administrator"
+
+      - title: "Course - IBM Solutions for Red Hat OpenShift and IBM Cloud Paks"
+        link: "https://www.youracclaim.com/badges/fa0ceb04-4ed9-4f9c-900c-a988168156a6/public_url"
+        tagline: "July 2020 - IBM"
+
+      - title: "Certificate - System Administrator"
         link: "https://rhtapps.redhat.com/certifications/badge/verify/S6LFDYG4P7XXJTIVOVV5HAPGYIAEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ="
         tagline: "January 2020 - Red Hat"
       
-      - title: "**Certificate** CKA - Certified Kubernetes Administrator"
+      - title: "Certificate CKA - Certified Kubernetes Administrator"
         link: "https://www.youracclaim.com/badges/1a7ad9cb-08a2-4f4a-88ac-de0c28686518/public_url"
         tagline: "Augost 2019 - The Linux Foundation"
 
