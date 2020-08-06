@@ -82,15 +82,15 @@ projects:
     intro: >
       Always doing something... Learn, create or enjoy it! In the following line you can see my last technology certificates and some personal projects. 
     assignments:
-      - title: System Administrator
+      - title: "**Certificate** - System Administrator"
         link: "https://rhtapps.redhat.com/certifications/badge/verify/S6LFDYG4P7XXJTIVOVV5HAPGYIAEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ="
         tagline: "January 2020 - Red Hat"
       
-      - title: CKA - Certified Kubernetes Administrator
+      - title: "**Certificate** CKA - Certified Kubernetes Administrator"
         link: "https://www.youracclaim.com/badges/1a7ad9cb-08a2-4f4a-88ac-de0c28686518/public_url"
         tagline: "Augost 2019 - The Linux Foundation"
 
-      - title: Magic Cube
+      - title: "Project - Magic Cube"
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
@@ -106,7 +106,7 @@ publications:
     papers:
       - title: Polygon
         link: "#"
-        authors: Second Award - Universidad de Alcala
+        authors: Second Award - Universidad de Alcala - 2017
         conference: Create (simulate) a company for developing IOT environmets. 
 
       - title: "Educator"
