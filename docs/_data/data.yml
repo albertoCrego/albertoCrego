@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: albertocregomatas@gmail.com
     phone: (+34) 662 57 79 49
-    website: blog.webjeda.com #do not add http://
+    website: 
     linkedin: albertocregomatas
     github: albertoCrego
     telegram: # add your nickname without '@' sign
@@ -33,21 +33,24 @@ sidebar:
         level: Intermediate - Professional
 
     interests:
-      - item: Rugby __Last 4 years__
+      - item: Rugby
         link: 
 
       - item: Nature & Travel
         link: 
 
+      - item: Volunteer 
+        link: 
+
+
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Curious, hard-working, versatile and with much energy for a continuous growth in my technology area. Character entrepreneur and with experience in group-working. 
+      
+      I want to contiue growing like **SRE/Cloud Architect** for improving my techology, social and personal skills and juggle with my personal life. 
+
+      I am really interested in create, develop and build new projects or ideas based on Cloud Environments, IOT, etc. 
 education:
     - degree: MSc in Telecomunication Enginnering
       university: Universidad de Alcalá (Madrid)
@@ -61,9 +64,9 @@ experiences:
       company: IBM
       details: |
         Junior Cloud Engineer in DevOps environment
-          - Develop and administrate in different Cloud (AWS, IBM Cloud), On-Premise Kubernetes Cluster and Openshift environments.
-          - Deploy and maintain applications for several clients: Databases (MongoDB, PostgreSQL, Redis, etc), MQ (RabbitMQ, Kafka, etc)
-          - Develop and administrate Monitoring Stacks with Grafana and Prometheus and Logging Stacks with ELK (Kibana, Elasticsearch, Logstash, Beats, etc)
+          - Develop and administrate in different **Cloud** (AWS, IBM Cloud), On-Premise **Kubernetes Cluster and Openshift** environments.
+          - Develop and administrate Monitoring Stacks with **Grafana and Prometheus** and Logging Stacks with **ELK** (Kibana, Elasticsearch, Logstash, Beats, etc)
+          - Deploy and maintain **applications for several clients**: Databases (MongoDB, PostgreSQL, Redis, etc), MQ (RabbitMQ, Kafka, etc)
           
     - role: Intership - Software Enginner
       time: July 2017 - June 2018
@@ -75,9 +78,9 @@ experiences:
           - Deploy a complete stack based on Elastic Stack
 
 projects:
-    title: Certifications & Projects
+    title: Certifications & Technology Projects
     intro: >
-      aaaaaa
+      Always doing something... Learn, create or enjoy it! In the following line you can see my last technology certificates and some personal projects. 
     assignments:
       - title: System Administrator
         link: "https://rhtapps.redhat.com/certifications/badge/verify/S6LFDYG4P7XXJTIVOVV5HAPGYIAEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ="
@@ -87,61 +90,61 @@ projects:
         link: "https://www.youracclaim.com/badges/1a7ad9cb-08a2-4f4a-88ac-de0c28686518/public_url"
         tagline: "Augost 2019 - The Linux Foundation"
 
-      - title: 
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
+      - title: Magic Cube
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Final BSc Project
+        link: "https://github.com/albertoCrego/Final-BSc-Project"
+        tagline: "June 2018 - Universidad de Alcala - Deploy scenarios for orquestated network and application funcionalities in 5G"
+
 
 publications:
-    title: Other Jobs 
+    title: Other Jobs & Experiences
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      
     papers:
-      - title: The Art of Computer Programming
+      - title: Polygon
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Second Award - Universidad de Alcala
+        conference: Create (simulate) a company for developing IOT environmets. 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Educator"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Red Cross - 2011-2014
+        conference: "Working during 4 years like educator with childrens between 8 and 16 years in risk of social exclusion"
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Lifeguard
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Piscimant SL - 2012 - 2015
+        conference: ""
 
-skills:
-    title: Skills &amp; Proficiency
+      - title: Madrid Rumbo al Sur - Senegal
+        link: "#"
+        authors: "Augost and September - 2011"
+        conference: "Travel around this country in one expedition with the objetive of sensibility in the international cooperation."        
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+# skills:
+#     title: Skills &amp; Proficiency
 
-      - name: Javascript & jQuery
-        level: 98%
+#     toolset:
+#       - name: Python & Django
+#         level: 98%
 
-      - name: Angular
-        level: 98%
+#       - name: Javascript & jQuery
+#         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+#       - name: Angular
+#         level: 98%
 
-      - name: Ruby on Rails
-        level: 85%
+#       - name: HTML5 & CSS
+#         level: 95%
 
-      - name: Sketch & Photoshop
-        level: 60%
+#       - name: Ruby on Rails
+#         level: 85%
+
+#       - name: Sketch & Photoshop
+#         level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
