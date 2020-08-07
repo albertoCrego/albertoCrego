@@ -46,13 +46,13 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      Curious, hard-working, versatile and with much energy for a continuous growth in my technology area. Character entrepreneur and with experience in group-working. 
-      
-      I am really interested in create, develop and build new projects or ideas based on Cloud Environments, DevOps environments, etc.
+      Curious, hard-working, versatile and with much energy for continuous growth in my technology area. Character entrepreneur and with experience in group-working.
 
-      I want to **contiue growing and learning to be in the futuro s SRE/Cloud Architect** on a international team based on differents locations. 
+      I am interested in creating, develop and build new projects or ideas based on Cloud Environments, DevOps environments, etc.
+
+      I want to **continue growing and learning to be in the future s SRE/Cloud Architect on an international team** based on different locations.
 education:
-    - degree: MSc in Telecomunication Enginnering
+    - degree: BSc in Telecomunication Enginnering
       university: Universidad de Alcalá (Madrid)
       time: 2012 - 2018
       details: |
@@ -80,14 +80,14 @@ experiences:
 projects:
     title: Certifications & Technology Projects
     intro: >
-      Always doing something... Learn, create or enjoy it! In the following line you can see my last technology certificates and some personal projects. 
+      Always doing something... Learn, create or enjoy it! In the following lines, you can see my last technology certificates and some personal projects. 
     assignments:
 
       - title: "Course - IBM Solutions for Red Hat OpenShift and IBM Cloud Paks"
         link: "https://www.youracclaim.com/badges/fa0ceb04-4ed9-4f9c-900c-a988168156a6/public_url"
         tagline: "July 2020 - IBM"
 
-      - title: "Certificate - System Administrator"
+      - title: "Certificate RH200 - Red Hat System Administrator"
         link: "https://rhtapps.redhat.com/certifications/badge/verify/S6LFDYG4P7XXJTIVOVV5HAPGYIAEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ="
         tagline: "January 2020 - Red Hat"
       
@@ -96,8 +96,8 @@ projects:
         tagline: "Augost 2019 - The Linux Foundation"
 
       - title: "Project - Magic Cube"
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        link: 
+        tagline: "Not finish project! Develop software and hardware to integrate a phisical cube with Clockify and Slack Bot to track tasks. Python Coding"
 
       - title: Final BSc Project
         link: "https://github.com/albertoCrego/Final-BSc-Project"
@@ -110,27 +110,27 @@ publications:
       
     papers:
       - title: IOT
-        link: "#"
+        link: 
         authors: Always :)
         conference: Play and create projects with Raspberry Pi, Onion Omega, Arduino, 3D Printing, etc. 
 
       - title: Polygon
-        link: "#"
+        link: 
         authors: Second Award - Universidad de Alcala - 2017
         conference: Create (simulate) a company for developing IOT environmets. 
 
       - title: "Educator"
-        link: "#"
+        link: 
         authors: Red Cross - 2011-2014
         conference: "Working during 4 years like educator with childrens between 8 and 16 years in risk of social exclusion"
 
       - title: Lifeguard
-        link: "#"
+        link: 
         authors: Piscimant SL - 2012 - 2015
         conference: ""
 
       - title: Madrid Rumbo al Sur - Senegal
-        link: "#"
+        link: 
         authors: "Augost and September - 2011"
         conference: "Travel around this country in one expedition with the objetive of sensibility in the international cooperation."        
 
