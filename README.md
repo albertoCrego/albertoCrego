@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**albertoCrego/albertoCrego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, I'm Alberto Crego 👋
 
-Here are some ideas to get you started:
+BSc in Telecomunication Enginnering at [Universidad de Alcalá](https://www.uah.es).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying **Red Hat Openshift EX280 Certificate**
+- 🌱 I’m currently learning **CNCF Projects** and **Amazon Web Services**
+
+## 📬 Get in Touch
+
+- GitHub: [github.com/albertoCrego][github]
+- LinkedIn: [github.com/albertoCrego][github]
+- E-mail: albertocregomatas@gmail.com
+
+### 📚 Looking for my Resume? E-Mail me!
