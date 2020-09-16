@@ -10,7 +10,7 @@ BSc in Telecomunication Enginnering at [Universidad de Alcalá](https://www.uah.
 ## 📬 Get in Touch
 
 - GitHub: [github.com/albertoCrego][github]
-- LinkedIn: [github.com/albertoCrego][github]
+- LinkedIn: [linkedin.com/albertocregomatas][linkedin]
 - E-mail: albertocregomatas@gmail.com
 
 ### 📚 Looking for my Resume? E-Mail me!
