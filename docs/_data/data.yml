@@ -83,6 +83,10 @@ projects:
       Always doing something... Learn, create or enjoy it! In the following lines, you can see my last technology certificates and some personal projects. 
     assignments:
 
+      - title: "HashiCorp Certified: Terraform Associate"
+        link: "https://www.credly.com/badges/8265cd22-5c5b-4eac-bd70-1481a34ff38c/public_url"
+        tagline: "May 2021 - Hashicorp"
+
       - title: "AWS Certified Solutions Architect – Associate"
         link: "https://www.youracclaim.com/badges/75c411ee-46ef-4c9f-bf08-566c83636409/public_url"
         tagline: "January 2021 - AWS"
