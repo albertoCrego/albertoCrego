@@ -87,6 +87,10 @@ projects:
         link: "https://www.credly.com/badges/8265cd22-5c5b-4eac-bd70-1481a34ff38c/public_url"
         tagline: "May 2021 - Hashicorp"
 
+      - title: "Fundamentos tecnológicos de Blockchain"
+        link: "https://github.com/albertoCrego/albertoCrego/blob/master/docs/certs/Blockchain-Certificate-AlbertoCrego2021.pdf"
+        tagline: "May 2021 - IBM"     
+
       - title: "AWS Certified Solutions Architect – Associate"
         link: "https://www.youracclaim.com/badges/75c411ee-46ef-4c9f-bf08-566c83636409/public_url"
         tagline: "January 2021 - AWS"
