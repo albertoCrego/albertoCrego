@@ -3,263 +3,174 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Alberto Crego
+    tagline: Cloud Engineer / DevOps 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: albertocregomatas@gmail.com
+    phone: (+34) 662 577 949
+    website: 
+    linkedin: albertocregomatas
+    github: albertoCrego
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+      - idiom: Spanish
+        level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+      - idiom: English
+        level: Intermediate - Professional
 
     interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+      - item: Rugby
+        link: 
 
-        - item: Snowboarding
-          link:
+      - item: Nature & Travel
+        link: 
 
-        - item: Cooking
-          link:
+      - item: Volunteer 
+        link: 
+
 
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Curious, hard-working, versatile and with much energy for continuous growth in my technology area. Character entrepreneur and with experience in group-working.
+
+      I am interested in creating, develop and build new projects or ideas based on Cloud Environments, DevOps environments, etc.
+
+      I want to **continue growing and learning to be in the future s SRE/Cloud Architect on an international team** based on different locations.
 education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+    - degree: BSc in Telecomunication Enginnering
+      university: Universidad de Alcalá (Madrid)
+      time: 2012 - 2018
+      details: |
+        Final BSc Project: "Deploy scenarios for orquestated network and application funcionalities in 5G"
 
 experiences:
-    title: Experiences
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+    - role: Cloud Engineer / DevOps
+      time: June 2018 - Present
+      company: IBM
+      details: |
+        Cloud Engineer in DevOps environment
+          - Develop and administrate in different **Cloud** (AWS, IBM Cloud), On-Premise **Kubernetes Cluster and Openshift** environments.
+          - Develop and administrate Monitoring Stacks with **Grafana and Prometheus** and Logging Stacks with **ELK** (Kibana, Elasticsearch, Logstash, Beats, etc)
+          - Deploy and maintain **applications for several clients**: Databases (MongoDB, PostgreSQL, Redis, etc), MQ (RabbitMQ, Kafka, etc)
+          
+    - role: Intership - Software Enginner
+      time: July 2017 - June 2018
+      company: Everis, Madrid
+      details: |
+          Intership in Architecture Team. 
+          - Developing a SOA Applications integrated with an API, CRM and On-Premiese.  
+          - Test and integrations with SOAP and REST services. 
+          - Deploy a complete stack based on Elastic Stack
 
 projects:
-    title: Projects
+    title: Certifications & Technology Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Always doing something... Learn, create or enjoy it! In the following lines, you can see my last technology certificates and some personal projects. 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: "HashiCorp Certified: Terraform Associate"
+        link: "https://www.credly.com/badges/8265cd22-5c5b-4eac-bd70-1481a34ff38c/public_url"
+        tagline: "May 2021 - Hashicorp"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: "Fundamentos tecnológicos de Blockchain"
+        link: "https://github.com/albertoCrego/albertoCrego/blob/master/docs/certs/Blockchain-Certificate-AlbertoCrego2021.pdf"
+        tagline: "May 2021 - IBM"     
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: "AWS Certified Solutions Architect – Associate"
+        link: "https://www.youracclaim.com/badges/75c411ee-46ef-4c9f-bf08-566c83636409/public_url"
+        tagline: "January 2021 - AWS"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: "Red Hat Certified Specialist in OpenShift Administration - Certificate RH280"
+        link: "https://rhtapps.redhat.com/certifications/badge/verify/S6LFDYG4P7XXJTIVOVV5HAPGYIAEQU3CUPSQX2KSDXT6RW46LQ3USGMBTDNSOFVX22WYNJ63KCC3BBTAOIVCQWO7U3Z7NRP66BA673I="
+        tagline: "October 2020 - Red Hat"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: "Red Hat System Administrator - Certificate RH200"
+        link: "https://rhtapps.redhat.com/certifications/badge/verify/S6LFDYG4P7XXJTIVOVV5HAPGYIAEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ="
+        tagline: "January 2020 - Red Hat"
+      
+      - title: "Certificate CKA - Certified Kubernetes Administrator"
+        link: "https://www.youracclaim.com/badges/1a7ad9cb-08a2-4f4a-88ac-de0c28686518/public_url"
+        tagline: "Augost 2019 - The Linux Foundation"
+        
+      - title: "Course - IBM Solutions for Red Hat OpenShift and IBM Cloud Paks"
+        link: "https://www.youracclaim.com/badges/fa0ceb04-4ed9-4f9c-900c-a988168156a6/public_url"
+        tagline: "July 2020 - IBM"        
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: "Project - Magic Cube"
+        link: 
+        tagline: "Project - Magic Cube - 2020 Not finish project! \n Develop software and hardware to integrate a physical cube with Clockify and Slack Bot to track tasks. Code with Python"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Final BSc Project
+        link: "https://github.com/albertoCrego/Final-BSc-Project"
+        tagline: "June 2018 - Universidad de Alcala - \n Deploy scenarios for orquestated network and application funcionalities in 5G"
+
 
 publications:
-    title: Publications
+    title: Other Jobs & Experiences
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: IOT
+        link: 
+        authors: Always :)
+        conference: Play and create projects with Raspberry Pi, Onion Omega, Arduino, 3D Printing, etc. 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Polygon
+        link: 
+        authors: Second Award - Universidad de Alcala - 2017
+        conference: Create (simulate) a company for developing IOT environmets. 
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Educator"
+        link: 
+        authors: Red Cross - 2011-2014
+        conference: "Working during 4 years like educator with childrens between 8 and 16 years in risk of social exclusion"
 
-skills:
-    title: Skills &amp; Proficiency
+      - title: Lifeguard
+        link: 
+        authors: Piscimant SL - 2012 - 2015
+        conference: ""
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+      - title: Madrid Rumbo al Sur - Senegal
+        link: 
+        authors: "Augost and September - 2011"
+        conference: "Travel around this country in one expedition with the objetive of sensibility in the international cooperation."        
 
-      - name: Javascript & jQuery
-        level: 98%
+# skills:
+#     title: Skills &amp; Proficiency
 
-      - name: Angular
-        level: 98%
+#     toolset:
+#       - name: Python & Django
+#         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+#       - name: Javascript & jQuery
+#         level: 98%
 
-      - name: Ruby on Rails
-        level: 85%
+#       - name: Angular
+#         level: 98%
 
-      - name: Sketch & Photoshop
-        level: 60%
+#       - name: HTML5 & CSS
+#         level: 95%
+
+#       - name: Ruby on Rails
+#         level: 85%
+
+#       - name: Sketch & Photoshop
+#         level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
