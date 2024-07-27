@@ -52,6 +52,8 @@ career-profile:
 
       I want to **continue growing and learning to be in the future s SRE/Cloud Architect on an international team** based on different locations.
 education:
+    title: Education
+    info:
     - degree: BSc in Telecomunication Enginnering
       university: Universidad de Alcalá (Madrid)
       time: 2012 - 2018
@@ -59,6 +61,8 @@ education:
         Final BSc Project: "Deploy scenarios for orquestated network and application funcionalities in 5G"
 
 experiences:
+    title: Experiences
+    info:
     - role: Cloud Engineer / DevOps
       time: June 2018 - Present
       company: IBM
